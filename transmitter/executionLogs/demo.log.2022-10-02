@@ -1,0 +1,24 @@
+2022-10-02 10:01:56,108 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-02 10:02:00,798 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-02 10:02:03,635 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-02 10:02:07,631 [publisher client] INFO  domain.Publisher - Published message -> 
+2022-10-02 10:04:45,847 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-02 10:04:47,534 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-02 10:04:47,754 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-02 10:04:49,953 [publisher client] INFO  domain.Publisher - Published message -> 
+2022-10-02 10:09:27,835 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-02 10:09:29,446 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-02 10:09:29,715 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-02 10:09:32,561 [publisher client] INFO  domain.Publisher - Published message -> 
+2022-10-02 10:15:29,586 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-02 10:15:31,371 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-02 10:15:31,597 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-02 10:15:32,194 [publisher client] INFO  domain.Publisher - Published message -> 
+2022-10-02 10:17:53,543 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-02 10:17:55,064 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-02 10:17:55,277 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-02 10:17:58,688 [publisher client] INFO  domain.Publisher - Published message -> 
+2022-10-02 10:20:02,735 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-02 10:20:04,267 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-02 10:20:04,499 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-02 10:20:06,208 [publisher client] INFO  domain.Publisher - Published message -> 

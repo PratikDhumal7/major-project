@@ -1,0 +1,4 @@
+2022-11-04 20:59:49,910 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-11-04 20:59:52,340 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-11-04 20:59:53,411 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-11-04 20:59:54,054 [publisher client] INFO  domain.Publisher - Published message -> 

@@ -1,0 +1,40 @@
+2022-10-03 21:33:25,455 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-03 21:33:28,516 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-03 21:33:29,314 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-03 21:33:29,429 [publisher client] INFO  domain.Publisher - Published message -> 
+2022-10-03 21:34:32,941 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-03 21:34:34,439 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-03 21:34:34,662 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-03 21:34:34,724 [publisher client] INFO  domain.Publisher - Published message -> 
+2022-10-03 21:36:46,130 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-03 21:36:47,783 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-03 21:36:48,011 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-03 21:36:48,155 [publisher client] INFO  domain.Publisher - Published message -> 
+2022-10-03 21:37:26,363 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-03 21:37:27,886 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-03 21:37:28,124 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-03 21:37:28,368 [publisher client] INFO  domain.Publisher - Published message -> 
+2022-10-03 21:37:50,760 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-03 21:37:52,246 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-03 21:37:52,527 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-03 21:37:52,608 [publisher client] INFO  domain.Publisher - Published message -> 
+2022-10-03 21:38:38,123 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-03 21:38:39,612 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-03 21:38:39,831 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-03 21:38:40,089 [publisher client] INFO  domain.Publisher - Published message -> 
+2022-10-03 21:40:04,402 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-03 21:40:05,897 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-03 21:40:06,147 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-03 21:40:06,971 [publisher client] INFO  domain.Publisher - Published message -> 
+2022-10-03 21:40:45,338 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-03 21:40:46,811 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-03 21:40:47,022 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-03 21:40:47,062 [publisher client] INFO  domain.Publisher - Published message -> 
+2022-10-03 21:42:07,272 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-03 21:42:08,773 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-03 21:42:09,022 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-03 21:42:09,155 [publisher client] INFO  domain.Publisher - Published message -> 
+2022-10-03 21:42:51,108 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-03 21:42:52,615 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-03 21:42:52,885 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-03 21:42:52,929 [publisher client] INFO  domain.Publisher - Published message -> 

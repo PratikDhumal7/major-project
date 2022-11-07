@@ -1,0 +1,33 @@
+2022-10-04 10:52:14,802 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-04 10:52:18,489 [demo_major_project] ERROR domain.Publisher - Could not instantiate client-> 
+Unable to connect to server (32103) - java.net.ConnectException: Network is unreachable (connect failed)
+	at org.eclipse.paho.client.mqttv3.internal.TCPNetworkModule.start(TCPNetworkModule.java:80)
+	at org.eclipse.paho.client.mqttv3.internal.ClientComms$ConnectBG.run(ClientComms.java:722)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.ConnectException: Network is unreachable (connect failed)
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:607)
+	at org.eclipse.paho.client.mqttv3.internal.TCPNetworkModule.start(TCPNetworkModule.java:74)
+	... 2 more
+2022-10-04 10:52:19,495 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-04 10:52:21,380 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-04 10:52:21,388 [publisher client] ERROR domain.Publisher - Could not send msg.
+Client is not connected (32104)
+	at org.eclipse.paho.client.mqttv3.internal.ExceptionHelper.createMqttException(ExceptionHelper.java:31)
+	at org.eclipse.paho.client.mqttv3.internal.ClientComms.sendNoWait(ClientComms.java:203)
+	at org.eclipse.paho.client.mqttv3.MqttAsyncClient.publish(MqttAsyncClient.java:1251)
+	at org.eclipse.paho.client.mqttv3.MqttClient.publish(MqttClient.java:570)
+	at domain.Publisher.run(Publisher.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2022-10-04 10:54:10,161 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-04 10:54:11,623 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-04 10:54:11,816 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-04 10:54:12,180 [publisher client] INFO  domain.Publisher - Published message -> 

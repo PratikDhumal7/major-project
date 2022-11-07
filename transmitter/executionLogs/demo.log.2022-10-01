@@ -1,0 +1,82 @@
+2022-10-01 14:59:17,789 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-01 14:59:19,321 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-01 15:00:48,178 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-01 15:00:49,666 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-01 15:02:24,363 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-01 15:02:25,812 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-01 15:07:24,238 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-01 15:07:25,770 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-01 15:08:18,093 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-01 15:08:58,417 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-01 15:09:07,109 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-01 15:09:22,243 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-01 15:09:23,694 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-01 15:10:21,223 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-01 15:10:22,710 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-01 15:13:58,848 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-01 15:16:08,531 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-01 15:16:20,814 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-01 15:16:29,733 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-01 15:16:34,896 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-01 15:17:19,080 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-01 15:17:22,703 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-01 15:17:34,257 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-01 15:17:38,205 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-01 15:17:40,728 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-01 15:20:07,869 [publisher client] INFO  domain.Publisher - Published message -> 
+2022-10-01 15:20:10,053 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-01 15:20:10,724 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-01 15:20:10,733 [publisher client] INFO  domain.Publisher - Published message -> 
+2022-10-01 15:20:11,508 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-01 15:20:45,273 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-01 15:20:46,726 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-01 15:20:46,902 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-01 15:20:46,916 [publisher client] INFO  domain.Publisher - Published message -> 
+2022-10-01 15:24:13,493 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-01 15:24:14,941 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-01 15:24:15,123 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-01 15:24:15,132 [publisher client] INFO  domain.Publisher - Published message -> 
+2022-10-01 15:33:45,083 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-01 15:33:46,529 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-01 15:33:46,714 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-01 15:33:46,728 [publisher client] INFO  domain.Publisher - Published message -> 
+2022-10-01 15:43:11,448 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-01 15:44:02,039 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-01 15:45:02,271 [demo_major_project] ERROR domain.Publisher - Could not instantiate client-> 
+MqttException (0) - java.net.SocketTimeoutException: connect timed out
+	at org.eclipse.paho.client.mqttv3.internal.ExceptionHelper.createMqttException(ExceptionHelper.java:38)
+	at org.eclipse.paho.client.mqttv3.internal.ClientComms$ConnectBG.run(ClientComms.java:736)
+	at java.lang.Thread.run(Thread.java:750)
+Caused by: java.net.SocketTimeoutException: connect timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:607)
+	at org.eclipse.paho.client.mqttv3.internal.TCPNetworkModule.start(TCPNetworkModule.java:74)
+	at org.eclipse.paho.client.mqttv3.internal.ClientComms$ConnectBG.run(ClientComms.java:722)
+	... 1 more
+2022-10-01 15:45:03,290 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-01 15:45:03,446 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-01 15:45:03,451 [publisher client] ERROR domain.Publisher - Could not send msg.
+Client is not connected (32104)
+	at org.eclipse.paho.client.mqttv3.internal.ExceptionHelper.createMqttException(ExceptionHelper.java:31)
+	at org.eclipse.paho.client.mqttv3.internal.ClientComms.sendNoWait(ClientComms.java:203)
+	at org.eclipse.paho.client.mqttv3.MqttAsyncClient.publish(MqttAsyncClient.java:1251)
+	at org.eclipse.paho.client.mqttv3.MqttClient.publish(MqttClient.java:570)
+	at domain.Publisher.run(Publisher.java:62)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+2022-10-01 15:45:27,306 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-01 15:45:28,751 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-01 15:45:28,919 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-01 15:45:28,941 [publisher client] INFO  domain.Publisher - Published message -> 
+2022-10-01 15:58:01,169 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-01 15:58:40,231 [demo_major_project] INFO  bootstrap.Driver - Starting the demo_major_project thread.
+2022-10-01 15:58:45,246 [demo_major_project] INFO  bootstrap.Driver - Ending the demo_major_project thread.
+2022-10-01 15:58:45,424 [publisher client] INFO  domain.Publisher - Start of publisher client thread.
+2022-10-01 15:58:45,559 [publisher client] INFO  domain.Publisher - Published message -> 
