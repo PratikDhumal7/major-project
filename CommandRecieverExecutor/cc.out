@@ -1,0 +1,210 @@
+cc.out
+commands.sh
+logs
+paho1856914620196-tcplocalhost1883
+pom.xml
+src
+target
+total 32
+-rw-rw-r-- 1 edwin edwin   78 Oct  1 19:22 cc.out
+-rwxrw-r-- 1 edwin edwin   29 Oct  1 19:22 commands.sh
+drwxrwxr-x 2 edwin edwin 4096 Oct  1 19:22 logs
+drwxrwxr-x 2 edwin edwin 4096 Oct  1 19:22 paho1856914620196-tcplocalhost1883
+-rw-rw-r-- 1 edwin edwin 5458 Sep 29 22:56 pom.xml
+drwxrwxr-x 4 edwin edwin 4096 Sep 29 22:55 src
+drwxrwxr-x 4 edwin edwin 4096 Oct  1 14:50 target
+cc.out
+commands.sh
+logs
+paho1856914620196-tcplocalhost1883
+paho1921563617496-tcplocalhost1883
+pom.xml
+src
+target
+total 36
+-rw-rw-r-- 1 edwin edwin  579 Oct  1 19:23 cc.out
+-rwxrw-r-- 1 edwin edwin   29 Oct  1 19:23 commands.sh
+drwxrwxr-x 2 edwin edwin 4096 Oct  1 19:22 logs
+drwxrwxr-x 2 edwin edwin 4096 Oct  1 19:22 paho1856914620196-tcplocalhost1883
+drwxrwxr-x 2 edwin edwin 4096 Oct  1 19:23 paho1921563617496-tcplocalhost1883
+-rw-rw-r-- 1 edwin edwin 5458 Sep 29 22:56 pom.xml
+drwxrwxr-x 4 edwin edwin 4096 Sep 29 22:55 src
+drwxrwxr-x 4 edwin edwin 4096 Oct  1 14:50 target
+cc.out
+commands.sh
+logs
+paho1856914620196-tcplocalhost1883
+paho1921563617496-tcplocalhost1883
+pom.xml
+src
+target
+[?25l[?7l[37m[0m[1m             ...-:::::-...
+[37m[0m[1m          .-MMMMMMMMMMMMMMM-.
+      .-MMMM[0m[32m[1m`..-:::::::-..`[37m[0m[1mMMMM-.
+    .:MMMM[0m[32m[1m.:MMMMMMMMMMMMMMM:.[37m[0m[1mMMMM:.
+   -MMM[0m[32m[1m-M---MMMMMMMMMMMMMMMMMMM.[37m[0m[1mMMM-
+ `:MMM[0m[32m[1m:MM`  :MMMM:....::-...-MMMM:[37m[0m[1mMMM:`
+ :MMM[0m[32m[1m:MMM`  :MM:`  ``    ``  `:MMM:[37m[0m[1mMMM:
+.MMM[0m[32m[1m.MMMM`  :MM.  -MM.  .MM-  `MMMM.[37m[0m[1mMMM.
+:MMM[0m[32m[1m:MMMM`  :MM.  -MM-  .MM:  `MMMM-[37m[0m[1mMMM:
+:MMM[0m[32m[1m:MMMM`  :MM.  -MM-  .MM:  `MMMM:[37m[0m[1mMMM:
+:MMM[0m[32m[1m:MMMM`  :MM.  -MM-  .MM:  `MMMM-[37m[0m[1mMMM:
+.MMM[0m[32m[1m.MMMM`  :MM:--:MM:--:MM:  `MMMM.[37m[0m[1mMMM.
+ :MMM[0m[32m[1m:MMM-  `-MMMMMMMMMMMM-`  -MMM-[37m[0m[1mMMM:
+  :MMM[0m[32m[1m:MMM:`                `:MMM:[37m[0m[1mMMM:
+   .MMM[0m[32m[1m.MMMM:--------------:MMMM.[37m[0m[1mMMM.
+     '-MMMM[0m[32m[1m.-MMMMMMMMMMMMMMM-.[37m[0m[1mMMMM-'
+       '.-MMMM[0m[32m[1m``--:::::--``[37m[0m[1mMMMM-.'
+[37m[0m[1m            '-MMMMMMMMMMMMM-'
+[37m[0m[1m               ``-:::::-``[0m
+[19A[9999999D[43C[0m[1m[32m[1medwin[0m@[32m[1medwin-HP-Laptop-15s-gr0xxx[0m 
+[43C[0m--------------------------------[0m 
+[43C[0m[32m[1mOS[0m[0m:[0m Linux Mint 20.2 x86_64[0m 
+[43C[0m[32m[1mHost[0m[0m:[0m HP Laptop 15s-gr0xxx[0m 
+[43C[0m[32m[1mKernel[0m[0m:[0m 5.4.0-74-generic[0m 
+[43C[0m[32m[1mUptime[0m[0m:[0m 32 mins[0m 
+[43C[0m[32m[1mPackages[0m[0m:[0m 2625 (dpkg), 8 (flatpak)[0m 
+[43C[0m[32m[1mShell[0m[0m:[0m bash 5.0.17[0m 
+[43C[0m[32m[1mResolution[0m[0m:[0m 1920x1080[0m 
+[43C[0m[32m[1mDE[0m[0m:[0m Cinnamon[0m 
+[43C[0m[32m[1mWM[0m[0m:[0m Mutter (Muffin)[0m 
+[43C[0m[32m[1mWM Theme[0m[0m:[0m cinnamon (Sweet-Dark)[0m 
+[43C[0m[32m[1mTheme[0m[0m:[0m Sweet-Dark [GTK2/3][0m 
+[43C[0m[32m[1mIcons[0m[0m:[0m candy-icons [GTK2/3][0m 
+[43C[0m[32m[1mTerminal[0m[0m:[0m java[0m 
+[43C[0m[32m[1mCPU[0m[0m:[0m AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx (8) @ 2.100GHz[0m 
+[43C[0m[32m[1mGPU[0m[0m:[0m AMD ATI 04:00.0 Picasso[0m 
+[43C[0m[32m[1mMemory[0m[0m:[0m 3916MiB / 5950MiB[0m 
+
+[43C[30m[40m   [31m[41m   [32m[42m   [33m[43m   [34m[44m   [35m[45m   [36m[46m   [37m[47m   [m
+[43C[38;5;8m[48;5;8m   [38;5;9m[48;5;9m   [38;5;10m[48;5;10m   [38;5;11m[48;5;11m   [38;5;12m[48;5;12m   [38;5;13m[48;5;13m   [38;5;14m[48;5;14m   [38;5;15m[48;5;15m   [m
+
+
+[?25h[?7hcc.out
+commands.sh
+executionLogs
+logs
+paho1856914620196-tcplocalhost1883
+paho1921563617496-tcplocalhost1883
+paho2056552434172-tcplocalhost1883
+pom.xml
+src
+target
+[?25l[?7l[37m[0m[1m             ...-:::::-...
+[37m[0m[1m          .-MMMMMMMMMMMMMMM-.
+      .-MMMM[0m[32m[1m`..-:::::::-..`[37m[0m[1mMMMM-.
+    .:MMMM[0m[32m[1m.:MMMMMMMMMMMMMMM:.[37m[0m[1mMMMM:.
+   -MMM[0m[32m[1m-M---MMMMMMMMMMMMMMMMMMM.[37m[0m[1mMMM-
+ `:MMM[0m[32m[1m:MM`  :MMMM:....::-...-MMMM:[37m[0m[1mMMM:`
+ :MMM[0m[32m[1m:MMM`  :MM:`  ``    ``  `:MMM:[37m[0m[1mMMM:
+.MMM[0m[32m[1m.MMMM`  :MM.  -MM.  .MM-  `MMMM.[37m[0m[1mMMM.
+:MMM[0m[32m[1m:MMMM`  :MM.  -MM-  .MM:  `MMMM-[37m[0m[1mMMM:
+:MMM[0m[32m[1m:MMMM`  :MM.  -MM-  .MM:  `MMMM:[37m[0m[1mMMM:
+:MMM[0m[32m[1m:MMMM`  :MM.  -MM-  .MM:  `MMMM-[37m[0m[1mMMM:
+.MMM[0m[32m[1m.MMMM`  :MM:--:MM:--:MM:  `MMMM.[37m[0m[1mMMM.
+ :MMM[0m[32m[1m:MMM-  `-MMMMMMMMMMMM-`  -MMM-[37m[0m[1mMMM:
+  :MMM[0m[32m[1m:MMM:`                `:MMM:[37m[0m[1mMMM:
+   .MMM[0m[32m[1m.MMMM:--------------:MMMM.[37m[0m[1mMMM.
+     '-MMMM[0m[32m[1m.-MMMMMMMMMMMMMMM-.[37m[0m[1mMMMM-'
+       '.-MMMM[0m[32m[1m``--:::::--``[37m[0m[1mMMMM-.'
+[37m[0m[1m            '-MMMMMMMMMMMMM-'
+[37m[0m[1m               ``-:::::-``[0m
+[19A[9999999D[43C[0m[1m[32m[1medwin[0m@[32m[1medwin-HP-Laptop-15s-gr0xxx[0m 
+[43C[0m--------------------------------[0m 
+[43C[0m[32m[1mOS[0m[0m:[0m Linux Mint 20.2 x86_64[0m 
+[43C[0m[32m[1mHost[0m[0m:[0m HP Laptop 15s-gr0xxx[0m 
+[43C[0m[32m[1mKernel[0m[0m:[0m 5.4.0-74-generic[0m 
+[43C[0m[32m[1mUptime[0m[0m:[0m 34 mins[0m 
+[43C[0m[32m[1mPackages[0m[0m:[0m 2625 (dpkg), 8 (flatpak)[0m 
+[43C[0m[32m[1mShell[0m[0m:[0m bash 5.0.17[0m 
+[43C[0m[32m[1mResolution[0m[0m:[0m 1920x1080[0m 
+[43C[0m[32m[1mDE[0m[0m:[0m Cinnamon[0m 
+[43C[0m[32m[1mWM[0m[0m:[0m Mutter (Muffin)[0m 
+[43C[0m[32m[1mWM Theme[0m[0m:[0m cinnamon (Sweet-Dark)[0m 
+[43C[0m[32m[1mTheme[0m[0m:[0m Sweet-Dark [GTK2/3][0m 
+[43C[0m[32m[1mIcons[0m[0m:[0m candy-icons [GTK2/3][0m 
+[43C[0m[32m[1mTerminal[0m[0m:[0m java[0m 
+[43C[0m[32m[1mCPU[0m[0m:[0m AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx (8) @ 2.100GHz[0m 
+[43C[0m[32m[1mGPU[0m[0m:[0m AMD ATI 04:00.0 Picasso[0m 
+[43C[0m[32m[1mMemory[0m[0m:[0m 3929MiB / 5950MiB[0m 
+
+[43C[30m[40m   [31m[41m   [32m[42m   [33m[43m   [34m[44m   [35m[45m   [36m[46m   [37m[47m   [m
+[43C[38;5;8m[48;5;8m   [38;5;9m[48;5;9m   [38;5;10m[48;5;10m   [38;5;11m[48;5;11m   [38;5;12m[48;5;12m   [38;5;13m[48;5;13m   [38;5;14m[48;5;14m   [38;5;15m[48;5;15m   [m
+
+
+[?25h[?7hcc.out
+commands.sh
+executionLogs
+paho1668850465135-tcplocalhost1883
+paho1856914620196-tcplocalhost1883
+paho1921563617496-tcplocalhost1883
+paho2056552434172-tcplocalhost1883
+pom.xml
+src
+target
+[?25l[?7l[37m[0m[1m             ...-:::::-...
+[37m[0m[1m          .-MMMMMMMMMMMMMMM-.
+      .-MMMM[0m[32m[1m`..-:::::::-..`[37m[0m[1mMMMM-.
+    .:MMMM[0m[32m[1m.:MMMMMMMMMMMMMMM:.[37m[0m[1mMMMM:.
+   -MMM[0m[32m[1m-M---MMMMMMMMMMMMMMMMMMM.[37m[0m[1mMMM-
+ `:MMM[0m[32m[1m:MM`  :MMMM:....::-...-MMMM:[37m[0m[1mMMM:`
+ :MMM[0m[32m[1m:MMM`  :MM:`  ``    ``  `:MMM:[37m[0m[1mMMM:
+.MMM[0m[32m[1m.MMMM`  :MM.  -MM.  .MM-  `MMMM.[37m[0m[1mMMM.
+:MMM[0m[32m[1m:MMMM`  :MM.  -MM-  .MM:  `MMMM-[37m[0m[1mMMM:
+:MMM[0m[32m[1m:MMMM`  :MM.  -MM-  .MM:  `MMMM:[37m[0m[1mMMM:
+:MMM[0m[32m[1m:MMMM`  :MM.  -MM-  .MM:  `MMMM-[37m[0m[1mMMM:
+.MMM[0m[32m[1m.MMMM`  :MM:--:MM:--:MM:  `MMMM.[37m[0m[1mMMM.
+ :MMM[0m[32m[1m:MMM-  `-MMMMMMMMMMMM-`  -MMM-[37m[0m[1mMMM:
+  :MMM[0m[32m[1m:MMM:`                `:MMM:[37m[0m[1mMMM:
+   .MMM[0m[32m[1m.MMMM:--------------:MMMM.[37m[0m[1mMMM.
+     '-MMMM[0m[32m[1m.-MMMMMMMMMMMMMMM-.[37m[0m[1mMMMM-'
+       '.-MMMM[0m[32m[1m``--:::::--``[37m[0m[1mMMMM-.'
+[37m[0m[1m            '-MMMMMMMMMMMMM-'
+[37m[0m[1m               ``-:::::-``[0m
+[19A[9999999D[43C[0m[1m[32m[1medwin[0m@[32m[1medwin-HP-Laptop-15s-gr0xxx[0m 
+[43C[0m--------------------------------[0m 
+[43C[0m[32m[1mOS[0m[0m:[0m Linux Mint 20.2 x86_64[0m 
+[43C[0m[32m[1mHost[0m[0m:[0m HP Laptop 15s-gr0xxx[0m 
+[43C[0m[32m[1mKernel[0m[0m:[0m 5.4.0-74-generic[0m 
+[43C[0m[32m[1mUptime[0m[0m:[0m 28 mins[0m 
+[43C[0m[32m[1mPackages[0m[0m:[0m 2625 (dpkg), 8 (flatpak)[0m 
+[43C[0m[32m[1mShell[0m[0m:[0m bash 5.0.17[0m 
+[43C[0m[32m[1mResolution[0m[0m:[0m 1920x1080[0m 
+[43C[0m[32m[1mDE[0m[0m:[0m Cinnamon[0m 
+[43C[0m[32m[1mWM[0m[0m:[0m Mutter (Muffin)[0m 
+[43C[0m[32m[1mWM Theme[0m[0m:[0m cinnamon (Sweet-Dark)[0m 
+[43C[0m[32m[1mTheme[0m[0m:[0m Sweet-Dark [GTK2/3][0m 
+[43C[0m[32m[1mIcons[0m[0m:[0m candy-icons [GTK2/3][0m 
+[43C[0m[32m[1mTerminal[0m[0m:[0m java[0m 
+[43C[0m[32m[1mCPU[0m[0m:[0m AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx (8) @ 2.100GHz[0m 
+[43C[0m[32m[1mGPU[0m[0m:[0m AMD ATI 04:00.0 Picasso[0m 
+[43C[0m[32m[1mMemory[0m[0m:[0m 3808MiB / 5950MiB[0m 
+
+[43C[30m[40m   [31m[41m   [32m[42m   [33m[43m   [34m[44m   [35m[45m   [36m[46m   [37m[47m   [m
+[43C[38;5;8m[48;5;8m   [38;5;9m[48;5;9m   [38;5;10m[48;5;10m   [38;5;11m[48;5;11m   [38;5;12m[48;5;12m   [38;5;13m[48;5;13m   [38;5;14m[48;5;14m   [38;5;15m[48;5;15m   [m
+
+
+[?25h[?7htotal 52
+-rw-rw-r-- 1 edwin edwin 9282 Oct  1 20:33 cc.out
+-rwxrw-r-- 1 edwin edwin   29 Oct  1 20:35 commands.sh
+drwxrwxr-x 2 edwin edwin 4096 Oct  1 19:25 executionLogs
+drwxrwxr-x 2 edwin edwin 4096 Oct  1 20:33 paho1668850465135-tcplocalhost1883
+drwxrwxr-x 2 edwin edwin 4096 Oct  1 19:22 paho1856914620196-tcplocalhost1883
+drwxrwxr-x 2 edwin edwin 4096 Oct  1 19:23 paho1921563617496-tcplocalhost1883
+drwxrwxr-x 2 edwin edwin 4096 Oct  1 19:25 paho2056552434172-tcplocalhost1883
+-rw-rw-r-- 1 edwin edwin 5458 Sep 29 22:56 pom.xml
+drwxrwxr-x 4 edwin edwin 4096 Sep 29 22:55 src
+drwxrwxr-x 6 edwin edwin 4096 Oct  1 19:28 target
+total 56
+-rw-rw-r-- 1 edwin edwin 9913 Oct  1 20:35 cc.out
+-rwxrw-r-- 1 edwin edwin   38 Oct  1 20:37 commands.sh
+drwxrwxr-x 2 edwin edwin 4096 Oct  1 19:25 executionLogs
+drwxrwxr-x 2 edwin edwin 4096 Oct  1 20:33 paho1668850465135-tcplocalhost1883
+drwxrwxr-x 2 edwin edwin 4096 Oct  1 19:22 paho1856914620196-tcplocalhost1883
+drwxrwxr-x 2 edwin edwin 4096 Oct  1 19:23 paho1921563617496-tcplocalhost1883
+drwxrwxr-x 2 edwin edwin 4096 Oct  1 19:25 paho2056552434172-tcplocalhost1883
+-rw-rw-r-- 1 edwin edwin 5458 Sep 29 22:56 pom.xml
+drwxrwxr-x 4 edwin edwin 4096 Sep 29 22:55 src
+drwxrwxr-x 6 edwin edwin 4096 Oct  1 19:28 target
+-rw-rw-r-- 1 edwin edwin   17 Oct  1 20:37 test.txt
+Hello There !!!!!

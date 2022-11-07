@@ -1,0 +1,8 @@
+2022-10-01 19:25:51,119 [MQTT Call: paho2056552434172] INFO                             mqtt.Receiver - Received message from t2.io/
+2022-10-01 19:25:52,000 [MQTT Call: paho2056552434172] INFO                 executor.CommandsExecutor - Success!
+2022-10-01 20:33:39,147 [MQTT Call: paho1668850465135] INFO                             mqtt.Receiver - Received message from t2.io/
+2022-10-01 20:33:40,671 [MQTT Call: paho1668850465135] INFO                 executor.CommandsExecutor - Success!
+2022-10-01 20:35:14,498 [MQTT Call: paho1668850465135] INFO                             mqtt.Receiver - Received message from t2.io/
+2022-10-01 20:35:14,510 [MQTT Call: paho1668850465135] INFO                 executor.CommandsExecutor - Command could not be executed
+2022-10-01 20:37:06,390 [MQTT Call: paho1668850465135] INFO                             mqtt.Receiver - Received message from t2.io/
+2022-10-01 20:37:06,408 [MQTT Call: paho1668850465135] INFO                 executor.CommandsExecutor - Success!
